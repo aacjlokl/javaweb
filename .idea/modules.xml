@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/19_filter/19_filter.iml" filepath="$PROJECT_DIR$/19_filter/19_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_Filter/1_Filter.iml" filepath="$PROJECT_DIR$/1_Filter/1_Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_监听器/1_监听器.iml" filepath="$PROJECT_DIR$/1_监听器/1_监听器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQzone/QQzone.iml" filepath="$PROJECT_DIR$/QQzone/QQzone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fati/fati.iml" filepath="$PROJECT_DIR$/fati/fati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWeb/myWeb.iml" filepath="$PROJECT_DIR$/myWeb/myWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa.iml" filepath="$PROJECT_DIR$/oa/oa.iml" />
+    </modules>
+  </component>
+</project>
